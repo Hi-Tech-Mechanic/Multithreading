@@ -1,0 +1,35 @@
+#include <iostream>
+#include <pthread.h>
+#include <unistd.h> // для usleep
+
+void* child_thread(void* arg) {
+    while (true) {
+        std::cout << "Дочерний поток печатает текст..." << std::endl;
+        sleep(1); // Задержка на одну секунду
+    }
+    return NULL;
+}
+
+int main() {
+    pthread_t child_thread_id;
+    int ret = pthread_create(&child_thread_id, NULL, child_thread, NULL);
+    if (ret != 0) {
+        std::cerr << "Ошибка при создании потока: " << ret << std::endl;
+        return 1;
+    }
+
+    // Ждем две секунды, чтобы дать возможность дочернему потоку начать выполнение
+    sleep(2);
+
+    // Прерываем дочерний поток
+    ret = pthread_cancel(child_thread_id);
+    if (ret != 0) {
+        std::cerr << "Ошибка при прерывании потока: " << ret << std::endl;
+        return 1;
+    }
+
+    // Ожидаем завершения дочернего потока
+    pthread_join(child_thread_id, NULL);
+
+    return 0;
+}
