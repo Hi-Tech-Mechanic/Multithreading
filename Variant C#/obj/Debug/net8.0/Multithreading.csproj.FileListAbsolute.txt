@@ -1,0 +1,28 @@
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Multithreading\Multithreading\bin\Debug\net8.0\Multithreading.exe
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Multithreading\Multithreading\bin\Debug\net8.0\Multithreading.deps.json
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Multithreading\Multithreading\bin\Debug\net8.0\Multithreading.runtimeconfig.json
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Multithreading\Multithreading\bin\Debug\net8.0\Multithreading.dll
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Multithreading\Multithreading\bin\Debug\net8.0\Multithreading.pdb
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.AssemblyInfoInputs.cache
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.AssemblyInfo.cs
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.csproj.CoreCompileInputs.cache
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.dll
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Multithreading\Multithreading\obj\Debug\net8.0\refint\Multithreading.dll
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.pdb
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.genruntimeconfig.cache
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Multithreading\Multithreading\obj\Debug\net8.0\ref\Multithreading.dll
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Выполненное\Multithreading\Variant C#\bin\Debug\net8.0\Multithreading.exe
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Выполненное\Multithreading\Variant C#\bin\Debug\net8.0\Multithreading.deps.json
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Выполненное\Multithreading\Variant C#\bin\Debug\net8.0\Multithreading.runtimeconfig.json
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Выполненное\Multithreading\Variant C#\bin\Debug\net8.0\Multithreading.dll
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Выполненное\Multithreading\Variant C#\bin\Debug\net8.0\Multithreading.pdb
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Выполненное\Multithreading\Variant C#\obj\Debug\net8.0\Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Выполненное\Multithreading\Variant C#\obj\Debug\net8.0\Multithreading.AssemblyInfoInputs.cache
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Выполненное\Multithreading\Variant C#\obj\Debug\net8.0\Multithreading.AssemblyInfo.cs
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Выполненное\Multithreading\Variant C#\obj\Debug\net8.0\Multithreading.csproj.CoreCompileInputs.cache
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Выполненное\Multithreading\Variant C#\obj\Debug\net8.0\Multithreading.dll
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Выполненное\Multithreading\Variant C#\obj\Debug\net8.0\refint\Multithreading.dll
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Выполненное\Multithreading\Variant C#\obj\Debug\net8.0\Multithreading.pdb
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Выполненное\Multithreading\Variant C#\obj\Debug\net8.0\Multithreading.genruntimeconfig.cache
+E:\Desktop\Руслан\Обучение\Учеба СКФУ\6 семестр\Многопоточное программирование\Выполненное\Multithreading\Variant C#\obj\Debug\net8.0\ref\Multithreading.dll
